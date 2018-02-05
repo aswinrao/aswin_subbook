@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SubBook</string>
+    <string name="title_activity_view_list">View_list</string>
+    <string name="subscriptionRemoved">Subscription Removed</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmRemoveSubscriptionTitle">Remove Subscription</string>
+    <string name="confirmRemoveSubscriptionMessage">Do you really want to remove {name}?</string>
+    <string name="addSubscription">Add Subscription</string>
+    <string name="total">Total:</string>
+    <string name="name">Name</string>
+    <string name="comment">Comment</string>
+    <string name="charge">Charge</string>
+    <string name="cad">CAD</string>
+    <string name="date">Date</string>
+    <string name="invalidInputs">Invalid Inputs</string>
+    <string name="editSubscription">Edit Subscription</string>
+</resources>
